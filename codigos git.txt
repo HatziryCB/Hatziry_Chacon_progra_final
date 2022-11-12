@@ -1,0 +1,13 @@
+
+
+commit aaaea1e82e501a8ef7be5c3fa0fe7b4f22444a8a
+Author: Hatziry Chacón Berreondo <hchaconb@miumg.edu.gt>
+Date:   Sat Nov 12 08:49:43 2022 -0600
+
+    Terminando primer bloque - Hatziry Chacón
+
+commit b59415f03cd62cf21b34dc66c5096aa74cec07d1 (HEAD -> master, origin/master)
+Author: Hatziry Chacón Berreondo <hchaconb@miumg.edu.gt>
+Date:   Sat Nov 12 08:54:54 2022 -0600
+
+    Crean los doc js  y jsp, segundo bloque - Hatziry Chacon
