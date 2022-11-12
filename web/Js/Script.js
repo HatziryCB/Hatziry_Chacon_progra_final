@@ -33,7 +33,7 @@ function cleanForm() {
     document.getElementById("fecha").value = '';
     document.getElementById("categoria").value = '';
 }
-
+//creacion de js 
 function eliminar(codigo) {
     const XHR = new XMLHttpRequest();
     var formData = new URLSearchParams(new FormData());
